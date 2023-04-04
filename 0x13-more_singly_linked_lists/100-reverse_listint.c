@@ -1,4 +1,4 @@
-u#include "lists.h"
+#include "lists.h"
 
 /**
  * reverse_listint - reverses a linked list
@@ -23,3 +23,4 @@ prev = *head;
 
 return (*head);
 }
+
